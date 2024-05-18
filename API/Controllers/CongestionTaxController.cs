@@ -1,5 +1,6 @@
 ﻿using API.Models;
 using API.Persistence;
+using API.Service;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers;

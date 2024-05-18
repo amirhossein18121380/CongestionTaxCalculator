@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=90f4435c_002D5318_002D4ae5_002D80c7_002D295e16d373a2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetTax_NullDates_ReturnsZero" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTests.GetTax_NullDates_ReturnsZero&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fccd4813_002D8daa_002D4efe_002Db9f7_002D0bd43770c279/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetTax_NullDates_ReturnsZero #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTests.GetTax_NullDates_ReturnsZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTests.GetTax_TollFreeVehicle_ReturnsZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTests.GetTax_SingleChargeRule_ReturnsHighestFee&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTests.GetTax_TollFreeDate_ReturnsZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTests.GetTax_NoRulesForCity_ThrowsException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTests.GetExpectedTax&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTests.GetTax_ReturnsZeroForNullDates&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTests.GetTax_ReturnsZeroForEmptyDates&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTests.GetTax_ReturnsZeroForTollFreeVehicle&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTests.GetTax_ThrowsExceptionForInvalidCity&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTests1.GetTax_ShouldReturnZero_WhenDatesAreNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTest2.GetTax_NoDates_ReturnsZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTest2.GetTax_EmptyDatesArray_ReturnsZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTest2.GetTax_TollFreeVehicle_ReturnsZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTest2.GetTax_ValidDataSingleCharge_ReturnsTotalFee&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTests.GetExpectedTax1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::05D32FF4-F89B-4D2F-A832-1B705B062302::net8.0::Test.CongestionTaxCalculatorTests.GetTax_ValidDataSingleCharge_ReturnsTotalFee&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

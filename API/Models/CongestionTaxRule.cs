@@ -1,11 +1,12 @@
-﻿using API.Models;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace API.Models;
 
 public class CongestionTaxRule : Entity<int>
 {
     [Required]
     [MaxLength(100)]
-    public required string City { get; set; }
+    public string City { get; set; }
 
     [Required]
     public int MaxDailyFee { get; set; }
