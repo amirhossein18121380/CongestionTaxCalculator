@@ -19,12 +19,7 @@ public class CongestionTaxDbContext : DbContext
     {
         base.OnModelCreating(modelBuilder);
 
-        //modelBuilder.Entity<Vehicle>()
-        //    .HasData(
-        //        new Vehicle { Id = 1, VehicleType = "Car" },
-        //        new Vehicle { Id = 2, VehicleType = "Motorbike" }
-        //        // Add other vehicles as needed
-        //    );
+        modelBuilder.Entity<Vehicle>();
 
         modelBuilder.Entity<CongestionTaxRule>()
             .HasMany(r => r.TollFees)
